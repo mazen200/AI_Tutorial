@@ -1,4 +1,4 @@
-# Linear Regression
+# Linear and Polynomial Regression
 
 ## Example: FIFA 2019 Players Value Estimation Problem.
 
